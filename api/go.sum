@@ -157,6 +157,7 @@ github.com/cloudevents/sdk-go/v2 v2.2.0 h1:FlBJg7W0QywbOjuZGmRXUyFk8qkCHx2euETp+
 github.com/cloudevents/sdk-go/v2 v2.2.0/go.mod h1:3CTrpB4+u7Iaj6fd7E2Xvm5IxMdRoaAhqaRVnOr2rCU=
 github.com/cloudevents/sdk-go/v2 v2.3.1 h1:QRTu0yRA4FbznjRSds0/4Hy6cVYpWV2wInlNJSHWAtw=
 github.com/cloudevents/sdk-go/v2 v2.3.1/go.mod h1:4fO2UjPMYYR1/7KPJQCwTPb0lFA8zYuitkUpAZFSY1Q=
+github.com/cloudevents/sdk-go/v2 v2.4.1/go.mod h1:MZiMwmAh5tGj+fPFvtHv9hKurKqXtdB9haJYMJ/7GJY=
 github.com/cockroachdb/datadriven v0.0.0-20190809214429-80d97fb3cbaa/go.mod h1:zn76sxSg3SzpJ0PPJaLDCu+Bu0Lg3sKTORVIj19EIF8=
 github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd/go.mod h1:sE/e/2PUdi/liOCUjSTXgM1o87ZssimdTWN964YiIeI=
 github.com/containerd/cgroups v0.0.0-20190919134610-bf292b21730f/go.mod h1:OApqhQ4XNSNC13gXIwDjhOQxjWa/NxkwZXJ1EvqT0ko=
